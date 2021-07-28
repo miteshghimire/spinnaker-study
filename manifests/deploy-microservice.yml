@@ -20,7 +20,7 @@ spec:
                 source: demo
         spec:
             containers:
-                -   image: 702037529261.dkr.ecr.us-west-2.amazonaws.com/mild-temper-microservice
+                -   image: 702037529261.dkr.ecr.us-west-2.amazonaws.com/magnificent-trophy-microservice
                     name: magnificent-trophy-microservice
                     ports:
                         -   name: web
