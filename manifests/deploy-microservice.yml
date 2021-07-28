@@ -32,7 +32,7 @@ apiVersion: v1
 metadata:
     labels:
         app: magnificent-trophy-microservice-service
-    name: mild-temper-microservice-service
+    name: magnificent-trophy-microservice-service
     namespace: microservices
 spec:
     selector:
