@@ -61,5 +61,6 @@ spec:
                         backend:
                             serviceName: magnificent-trophy-microservice-service
                             servicePort: 30201
+                            
 
 
