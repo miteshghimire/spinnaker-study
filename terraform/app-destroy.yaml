@@ -25,6 +25,6 @@ spec:
                     -   name: TF_VAR_team_name
                         value: magnificent-trophy
                     args:
-                      - destroy
+                      - 'destroy -auto-approve'
             restartPolicy: Never
     backoffLimit: 4
